@@ -1,6 +1,6 @@
 schema_version = "1.0.0"
 
-id = "example-blender-addon"
+id = "example_blender_addon"
 version = "1.0.0"
 name = "Example Blender Add-on"
 tagline = "This is another extension"
