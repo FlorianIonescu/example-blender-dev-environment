@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "example-blender-addon"
+version = "1.0.0"
+name = "Example Blender Add-on"
+tagline = "This is another extension"
+maintainer = "Developer name <email@address.com>"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+wheels = [
+    "./wheels/packaging-24.2-py3-none-any.whl",
+]
